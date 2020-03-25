@@ -83,5 +83,7 @@
 
 
 </table>
+Comentarios
+Estoy iniciando en programacion, me cuesta algo de trabajo realizar las activiades, ya que la sintaxis es algo compleja.
 </body>
 </html>
