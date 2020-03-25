@@ -2,10 +2,10 @@
         <li><a href="#">CURRICULUM VITAE </a></li>
         <li><a href="#">DATOS PERSONALES </a></li>
         <li><a href="#">FORMACION ACADEMICA </a>
-            <ul><li><a href="">Servicio 1</a></li>
-            <li><a href="">Servicio 2</a></li>
-            <li><a href="">Servicio 3</a></li>
-            <li><a href=""></a>Servicio 4</li></ul>
+            <ul><li><a href="">Lic.Pedagogia</a></li>
+            <li><a href=""Tecnico en electronica</a></li>
+            <li><a href="">Bachillerato U de G</a></li>
+           
             </li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contacto</a></li>
