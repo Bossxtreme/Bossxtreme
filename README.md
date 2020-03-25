@@ -1,79 +1,91 @@
 <html>
-<head>
-</head>
-<center><font color=beight><h1><i><b><u>curriculum vitae</u></b></i></h1></font></center>
-<body bgcolor="skyblue"><center>
-<img src="C:\Users\skoto\OneDrive\Desktop"  height="15%" width="10%"></center></br>
-<p>
-<h3><i><b><u>DATOS PERSONALES:</u></b></i></h3>
-<p>
-<i><b>NOMBRE Y APELLIDO:</b></i><font color="blue"><b>Adolfo Escoto Camacho</b></font></br>
-<i><b>EDAD:</b></i><font color="blue"><b>34 años </b></font></br>
-<i><b>FECHA DE NACIMIENTO:</b></i><font color="blue"><b>07/09/1985</b></font></br>
-<i><b>DIRECCION:</b></i><font color="blue"><b>Luis Don Aldo Colosio 290</b></font></br>
-<i><b>TELEFONO CELULAR:</b></i><font color="blue"><b>3481113920</b></font></br>
-<i><b>CORREO ELECTRONICO:</b></i><font color="blue"><b>skoto18@gmail.com</b></font></br>
-
-<p>
-<h3><i><b><u>ESTUDIOS REALIZADOS:</u></b></i></h3>
-<p>
-<i><b>PRIMARIA Y SECUNDARIA:</b></i><font color="blue"> <b>C.E."Colegio independencia (1994-2003)</b></font></br>
-<i><b>BACHILLERATO:</b></i><font color="blue"> <b>C.E." U de G  (2003-2006)</b></font></br>
-<i><b>SUPERIOR:</b></i><font color="blue"><b>Universidad virtual UNIVES "Licenciado en pedagogia"(2012-actualidad)</b></font></br>      
-<p>
-<h3><i><b><u>EXPERIENCIA LABORAL:</u></b></i></h3>
-<font color="blue"><b>Experiencia en la aplicacion de tecnologias en el aula SEJ</b></font>
-</p>
-</body>
+	<head>
+		<title>Menu Desplegable</title>
+		<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="">Inicio</a></li>
+				<li><a href="">Servicios</a>
+					<ul>
+						<li><a href="">Submenu1</a></li>
+						<li><a href="">Submenu2</a></li>
+						<li><a href="">Submenu3</a></li>
+						<li><a href="">Submenu4</a>
+							<ul>
+								<li><a href="">Submenu1</a></li>
+								<li><a href="">Submenu2</a></li>
+								<li><a href="">Submenu3</a></li>
+								<li><a href="">Submenu4</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="">Acerca de</a>
+					<ul>
+						<li><a href="">Submenu1</a></li>
+						<li><a href="">Submenu2</a></li>
+						<li><a href="">Submenu3</a></li>
+						<li><a href="">Submenu4</a></li>
+					</ul>
+				</li>
+				<li><a href="">Contacto</a></li>
+			</ul>
+		</div>
+	</body>
 </html>
-<html>
-<head>
 
-</head>
-<body bgcolor="lightblue"><center>
-<table border="100"></center>
-<tr>
-<td colspan="4" bgcolor="blue"><center>musica</center></td>
-</tr>
-
-<tr>
-      <td bgcolor ="purple" >generos</td>
-      <td bgcolor="orange" >regeeton</td>  
-      <td bgcolor="red" >salsa</td>
-      <td bgcolor="silver"">baladas</td>
-</tr>
-      <td rowspan=6 bgcolor="darkgreen">artistas y grupos</td>
-      <td bgcolor="orange">daddy yanke</td>
-      <td bgcolor="red">n'samble</td>     
-      <td bgcolor="silver">tiziano ferro</td>
-<tr>
-      <td bgcolor="orange">don omar</td>
-      <td bgcolor="red">jerry rivera</td>
-      <td bgcolor="silver">sin bandera</td>
-</tr>
-<tr>
-      <td bgcolor="orange">chino y nacho</td>
-      <td bgcolor="red">angeles</td>
-      <td bgcolor="silver">Gian Marco</td>
- </tr>
-<tr>
-       <td bgcolor="orange">rkm y ken</td>
-       <td bgcolor="red">adolescentes</td>
-       <td bgcolor="silver">alejandro saens</td>
-</tr>
-<tr>
-        <td bgcolor="orange">smoky</td>
-        <td bgcolor="red">la novel</td>
-        <td bgcolor="silver">camila</td>
-</tr>
-<tr>
-        <td bgcolor="orange">wisin y yandel</td>
-        <td bgcolor="red">el gran combo</td>
-        <td bgcolor="silver">marck antony</td>
-</tr>
-
-
-</table>
-</body>
-</html>
 
