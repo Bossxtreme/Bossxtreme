@@ -7,7 +7,7 @@
             <li><a href="#">Bachillerato U de G</a></li>
               </li>
           </ul></nav>
-html>
+
 <head>
 </head>
 <center><font color=beight><h1><i><b><u>curriculum vitae</u></b></i></h1></font></center>
