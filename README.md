@@ -1,7 +1,7 @@
 <nav><ul>
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#">Quiénes somos</a></li>
-        <li><a href="#">Servicios</a>
+        <li><a href="#">CURRICULUM VITAE </a></li>
+        <li><a href="#">DATOS PERSONALES </a></li>
+        <li><a href="#">FORMACION ACADEMICA </a>
             <ul><li><a href="">Servicio 1</a></li>
             <li><a href="">Servicio 2</a></li>
             <li><a href="">Servicio 3</a></li>
